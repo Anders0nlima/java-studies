@@ -1,4 +1,4 @@
-package Contador;
+package Sintaxe_Básica_de_Java.Contador;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package CalculadoraSimples;
+package Sintaxe_Básica_de_Java.CalculadoraSimples;
 
 
 import java.util.Scanner;

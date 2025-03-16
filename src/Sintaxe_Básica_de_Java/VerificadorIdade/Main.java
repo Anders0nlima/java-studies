@@ -1,4 +1,4 @@
-package VerificadorIdade;
+package Sintaxe_Básica_de_Java.VerificadorIdade;
 
 import java.util.Scanner;
 

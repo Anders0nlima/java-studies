@@ -1,4 +1,4 @@
-package Adivinhe;
+package Sintaxe_Básica_de_Java.Adivinhe;
 
 import java.util.Random;
 import java.util.Scanner;
