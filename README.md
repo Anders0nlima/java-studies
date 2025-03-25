@@ -1,19 +1,19 @@
-🚀 Aula 1: Sintaxe Básica de Java
-📝 Introdução ao Java
+#🚀 Aula 1: Sintaxe Básica de Java
+
+##📝 1. Introdução ao Java
 Java é uma linguagem de programação orientada a objetos, fortemente tipada e multiplataforma. Isso significa que o código Java pode rodar em qualquer sistema operacional que tenha uma JVM (Java Virtual Machine) instalada.
 
-📌 Estrutura Básica de um Programa Java
-Todo programa Java começa com uma classe. A classe principal deve conter o método main, que é o ponto de entrada do programa.
+##📌 2. Estrutura Básica de um Programa Java
+Todo programa Java começa com uma classe. A classe principal deve ter um método `main`, que é o ponto de entrada do programa.
 
-✨ Exemplo:
-java
-Copy
-Edit
+###✨ Exemplo:
+```java
 public class MeuPrimeiroPrograma {
     public static void main(String[] args) {
         System.out.println("Olá, mundo!");
     }
 }
+
 🔹 public class MeuPrimeiroPrograma → Define uma classe chamada MeuPrimeiroPrograma.
 🔹 public static void main(String[] args) → Método principal onde a execução começa.
 🔹 System.out.println("Olá, mundo!"); → Exibe a mensagem no console.
